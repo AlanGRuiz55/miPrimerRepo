@@ -1,2 +1,5 @@
 # miPrimerRepo
-Este es mi primer repo de ejmplo
+
+Este es mi primer repo de ejemplo
+
+Mi primer contribución local para Github
